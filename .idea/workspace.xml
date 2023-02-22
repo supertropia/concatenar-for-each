@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29823e4f-22ee-488f-b254-6aaae6b61500" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estructurasDeControl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConcatenaBucles/concatena.java" afterDir="false" />
-    </list>
+    <list default="true" id="29823e4f-22ee-488f-b254-6aaae6b61500" name="Changes" comment="ejercico de concatenar palabras con diclo for each" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +44,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677020170096</updated>
     </task>
+    <task id="LOCAL-00001" summary="ejercico de concatenar palabras con diclo for each">
+      <created>1677098806312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677098806312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejercico de concatenar palabras con diclo for each" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercico de concatenar palabras con diclo for each" />
   </component>
 </project>
